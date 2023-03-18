@@ -1,4 +1,4 @@
 # Exercise
-## Exercise of
-* check
-* list
+## Shopping List
+* *carrot*
+* **cake**
